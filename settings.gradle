@@ -1,4 +1,5 @@
 rootProject.name = 'AuthServer'
 include 'dao'
 include 'web'
+include 'service'
 
